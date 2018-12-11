@@ -1,6 +1,6 @@
 body {
-    background-color: burlywood;
     font-family: "Courier New";
+    background-color: cornsilk;
 }
 
 h1 {
@@ -12,9 +12,10 @@ h1 {
 #t1, th, td{
     border: 1px solid black;
     align:center;
+    background-color: white;
 }
 
 #t2, th, td {
     border: 1px solid black;
-    margin
+    background-color: white;
 }
